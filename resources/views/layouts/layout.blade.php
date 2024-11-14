@@ -56,7 +56,7 @@
             </li>
         </ul>
         <hr>
-        <a href="#" class="d-flex align-items-center text-white text-decoration-none">
+        <a href="{{route('logout')}}" class="d-flex align-items-center text-white text-decoration-none">
             <i class="bi bi-person-circle rounded-circle me-2" style="font-size: 25px;"></i>
             <strong>Cerrar Sesion</strong>
         </a>
